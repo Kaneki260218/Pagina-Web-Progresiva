@@ -1,0 +1,16 @@
+{
+    "name": "Tip Calculator",
+    "short_name": "TipCalc",
+    "description": "An app to calculate tips based on service ratings",
+    "start_url": "/",
+    "theme_color": "#0033cc",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "./icons/app_icon_192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ]
+}
